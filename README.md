@@ -16,7 +16,7 @@ A high-performance, observable message queue library for Go with real-time monit
 ## Installation
 
 ```bash
-go get github.com/yourusername/mesquite
+go get github.com/kieracarman/mesquite
 ```
 
 ## Quick Start
@@ -27,7 +27,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/yourusername/mesquite"
+    "github.com/kieracarman/mesquite"
 )
 
 func main() {
